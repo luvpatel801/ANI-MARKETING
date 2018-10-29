@@ -1,0 +1,223 @@
+body {
+	font-family: Montserrat, Goudy Old Style;
+	color: black;
+	background-color: white
+	line-height: 1.5;
+}
+
+
+
+#container {
+	padding: 10px;
+	margin: auto;
+	width: 1300px;
+	
+}
+
+#header h1 {
+	
+	padding-top: 10px;
+	padding-left: 60px;
+	color: #000080;
+	float: left;
+
+}
+
+br {
+	clear: both;
+}
+
+hr {
+	clear: both;
+}
+
+#nav {
+	float: right;
+	padding: 10px;
+	margin: 5px;
+}
+
+#nav ul {
+	list-style: none;
+	margin-top: 10px;
+	padding-top: 10px;
+
+	text-decoration-style: none;
+	text-decoration: none;
+}
+
+#nav ul li {
+	display: inline;
+	padding: 10px;
+	margin-left: 10px; 
+	margin-top: 20px;
+
+}
+
+#nav ul li a {
+
+	text-decoration-style: none;
+	text-decoration: none;
+	font-size: 18px;
+	color: #4682B4;
+	font-weight: bold;
+
+}
+
+a:visited {
+	color: orange;
+}
+
+a:hover {
+		
+	font-weight: bold;
+	padding: 5px;
+	margin: 5px;
+	
+}
+
+
+#showcase {
+	clear: both;
+	background-image: url(2.jpg);
+	height: 390px;
+	padding: 50px;
+	margin: 20px auto 30px auto;
+
+}
+
+#showcase h3 {
+	margin-top: 100px;
+	color: #B0E0E6;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	text-align: center;
+	padding-right: auto;
+}
+
+#showcase p {
+	margin-top: 0;
+	text-align: center;
+	color: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+	font-style: italic;
+	width: 800px;
+	font-size: 19px;
+	margin-bottom: 40px;
+}
+
+#but {
+	
+	margin-left: 400px;
+	padding-left: auto;
+	background-color: silver;
+	padding-right: auto;
+	height: 45px;
+	width: 200px;
+	border: 0;
+	font-size: 19px;
+	margin-right: 5px;
+
+}
+
+#but1 {
+	background-color: silver;
+	height: 45px;
+	width: 200px;
+	border: 0;
+	font-size: 19px;
+
+}
+
+
+#section {
+	margin-top: 70px;
+
+}
+ 
+#section h3 {
+	color: #4B0082;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+#box {
+	
+	margin-top: 20px;
+	margin-bottom: 10px;
+
+}
+
+#box1 h4 {
+	font-size: 17px;
+	color: #C71585;
+
+}
+
+#box1 p {
+font-size: 18px;
+
+}
+
+
+#box1 {
+	width: 60%;
+	float: left;
+}
+
+#butt {
+	margin-top: 80px;
+	width: 30%;
+	float: right;
+}
+
+#butt a {
+
+	
+	font-size: 16px;
+	color: #4B0082;
+
+}
+
+a:visited {
+	color: orange;
+}
+
+a:hover {
+		
+	font-size: 17px;
+	padding: 5px;
+	margin: 5px;
+	
+}
+
+#button2 {
+	background-color: #00FA9A;
+	height: 50px;
+	width: 180px;
+	height: 30px;
+	border: 0;
+	font-size: 19px;
+
+}
+
+#para {
+	font-size: 22px;
+}
+
+#footer {
+	text-align: center;
+	background-color: #2f2f2f;
+	color: white;
+	padding: 1px;
+
+	margin-top: 5px;
+	font-size: 19px;
+
+}
+
